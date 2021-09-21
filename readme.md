@@ -20,7 +20,7 @@ standalone OCR example has been moved to [/docs/experiments/ocr](/docs/experimen
 
 Deep Video Analytics recommends Google Cloud Platform and is configured to work out of box.
 
-[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FAKSHAYUBHAT%2FDeepVideoAnalytics&cloudshell_print=cloud-shell-readme.txt)
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fnotbadboy%2FDeepVideoAnalytics&cloudshell_print=cloud-shell-readme.txt)
 
 ### Architecture
 
